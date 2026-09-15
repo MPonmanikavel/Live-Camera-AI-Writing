@@ -1,0 +1,5 @@
+opencv-python>=4.9.0        # GUI build — must NOT be replaced by headless
+mediapipe>=0.10.30,<1.0
+numpy>=1.26.0
+easyocr>=1.7.0
+sympy>=1.12
